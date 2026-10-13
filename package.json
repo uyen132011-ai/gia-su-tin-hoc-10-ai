@@ -1,0 +1,8 @@
+{
+  "name": "gia-su-tin-hoc-10-ai",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Chatbot gia sư AI môn Tin học lớp 10",
+  "engines": { "node": ">=20" },
+  "scripts": { "dev": "vercel dev" }
+}
